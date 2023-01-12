@@ -1,2 +1,2 @@
 # lcdm
-suite of emulators for lcdm
+Suite of emulators for LCDM

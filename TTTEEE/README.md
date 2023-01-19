@@ -1,0 +1,3 @@
+CMB angular power spectra for TT, TE and EE
+lmax = ....
+lensing = yes (this is the lensed spectra)

@@ -1,0 +1,1 @@
+Lensing potential power spectrum
